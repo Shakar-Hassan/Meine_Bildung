@@ -1,0 +1,38 @@
+.navbar-lewagon {
+  justify-content: space-between;
+  background: #ffbe1b;
+}
+
+.navbar-lewagon .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-lewagon .navbar-brand img {
+  width: 50px;
+}
+
+.navbar-lewagon .navbar-brand img {
+  border-radius: 50px;
+}
+
+.container-fluid{
+  width:95%;
+}
+
+
+.icon-badge-icon {
+  font-size: 20px;
+  position: relative;
+}
+
+.icon-badge {
+  background-color: red;
+  font-size: small;
+  color: white;
+  text-align: center;
+  width: 20px;
+  border-radius: 50%;
+  position: relative;
+  top: -35px;
+  left: 17px;
+}
